@@ -7,4 +7,4 @@ Demo:
 
 ![](demo.gif)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/V4um2N_RgZU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/V4um2N_RgZU/0.jpg)](https://www.youtube.com/watch?v=V4um2N_RgZU)
