@@ -7,4 +7,5 @@ Demo:
 
 ![](demo.gif)
 
-[video](https://youtu.be/V4um2N_RgZU)
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/V4um2N_RgZU/0.jpg)](http://www.youtube.com/watch?v=V4um2N_RgZU)
+
