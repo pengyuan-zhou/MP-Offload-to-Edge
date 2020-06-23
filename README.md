@@ -3,8 +3,18 @@ Based on [ORB_SLAM2](https://github.com/raulmur/ORB_SLAM2), [Darknet](https://gi
 Android client offloads Object detection and ORBSLAM2 simultaneously to same/diff server(s), 
 and render both received results.
 
-Demo:
+To be noticed, the code selects paths manually. Please develop your own path selection scheduler based on demand.
 
-![](demo.gif)
+Publication:
+```
+@inproceedings{braud2020multipath,
+  title={Multipath Computation Offloading for Mobile Augmented Reality},
+  author={Braud, Tristan and Zhou, Pengyuan and Kangasharju, Jussi and Hui, Pan},
+  booktitle={In Proceedings of the IEEE International Conference on Pervasive Computing and Communications (PerCom 2020), Austin USA},
+  year={2020}
+}
+```
+
+Demo:
 
 [![Video](https://img.youtube.com/vi/V4um2N_RgZU/0.jpg)](https://www.youtube.com/watch?v=V4um2N_RgZU)
